@@ -13,5 +13,7 @@ Traffix XML -> Pandas/CSV -> Modeling format for use with CUBE
 
 ## Research
 [TransXML](http://www.aashtoware.org/Documents/TransXML%20Resolution.pdf) - Looks like a dead format
+
 [UTDF Paper](http://www.ctre.iastate.edu/pubs/midcon/Gerken.pdf) - Very little documentation
+
 [UTDF Trafficware](http://www.trafficware.com/transferring-data-using-utdf.html) - Much of the work around this seems program specific
