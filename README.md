@@ -17,3 +17,5 @@ Traffix XML -> Pandas/CSV -> Modeling format for use with CUBE
 [UTDF Paper](http://www.ctre.iastate.edu/pubs/midcon/Gerken.pdf) - Very little documentation
 
 [UTDF Trafficware](http://www.trafficware.com/transferring-data-using-utdf.html) - Much of the work around this seems program specific
+
+[Traffix Notes from Shanti](https://github.com/vta/watching-traffic-go-by/blob/master/import_traffix_values.pdf) - We pulled certain data from the Traffix file based on suggestions from one of our traffic engineers.
